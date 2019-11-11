@@ -3,7 +3,7 @@ requests==2.21.0
 Flask==1.0.2
 beautifulsoup4==4.7.1
 pymongo==3.7.2
-python_dateutil==2.7.5
+python_dateutil==2.8.1
 python-dotenv==0.10.1
 flask_bootstrap==3.3.7.1
 flask_login==0.4.1
