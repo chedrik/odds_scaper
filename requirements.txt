@@ -6,7 +6,7 @@ pymongo==3.7.2
 python_dateutil==2.7.5
 python-dotenv==0.10.1
 flask_bootstrap==3.3.7.1
-flask_login==0.4.1
+flask_login==0.5.0
 flask_mail==0.9.1
 flask_moment==0.6.0
 flask_wtf==0.14.2
